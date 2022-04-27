@@ -18,23 +18,28 @@ to make work the Asus .kext must be modified to include the Asus PID.
 
 Aquantia was purchased by Marvell.
 there is a Repo here in Github,
-has drivers for FreeBSD, ESXi
-https://github.com/Aquantia/AQtion
+has drivers for FreeBSD, ESXi https://github.com/Aquantia/AQtion
 
 There are drivers also in the ASUS website,
 and Sonnet Website.
 
-Latest Drivers % FW from Marvell / AQC:
-https://www.marvell.com/support/downloads.html
+Latest Drivers % FW from Marvell / AQC: https://www.marvell.com/support/downloads.html
 
-Linux driver installs and works well in Kubuntu 20.10 Groovy
-but Groovy is Not LTS.
+Linux driver installs and works Ok in Kubuntu 20.10 Groovy Gorilla
+but GroovyGorilla is Not LTS.
 better install 20.04 LTS
 
-Windows also work OK,
+Windows8.1 also work OK,
 same Driver & same FW works for Both:
-ASUS XG-C100F or Sonnet Solo 10G SFP+ PCIe
-Trendnet "untested"
+ASUS XG-C100F PCIe & Sonnet Solo 10G SFP+ PCIe
+Trendnet v1 or v2 PCIe "Unknown / Untested"
+
+Asus has No drivers for OSX,
+Marvell AQC100 has No drivers for OSX,
+but Sonnet with same IC works since OSX HighSierra without drivers,
+because a partnership between Apple & Sonnet to develop HW for Apple.
+OSX detects Sonnet PID HID and loads the drivers.
+but still needs tweaking, see Sonnet FAQ.
 
 WARNING #1:
 FW upgrade does Not Jump from very old to latest.
@@ -68,13 +73,19 @@ if is detected by the tool in cmd.
 if Ok, W10 is No longer needed.
 
 SFP+
+
 https://www.asus.com/Networking-IoT-Servers/Wired-Networking/All-series/XG-C100F/
+
 https://www.sonnettech.com/product/solo10g-sfp-pcie-card.html
+
 https://www.sonnettech.com/product/presto10gbesfp.html
+
 https://www.trendnet.com/products/10g-sfp-pcie-adapter/10-gigabit-pcie-sfp-network-adapter-TEG-10GECSFP-v2
 
 RJ45 10G CAT6A
+
 https://www.sonnettech.com/product/solo10g-pcie-card.html
+
 https://www.sonnettech.com/product/presto10gbaset.html
 
 Asus XG-C100* requires: 1500rpm fan or more, depending on Ambient °C.
