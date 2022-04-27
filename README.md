@@ -111,8 +111,8 @@ there is also a smaller 8x SFP+ version, and a smaller 4x SFP+ version.
 The Step-Up is the CCR2004 12S+ has less SFP+ cages, but faster Quad-Core ARM CPU.
 CCR1072 was previous Generation Top of the Line, 72-core Amazon CPU, has 4x fans that Never Turn-Off, very $$$.
 but has No CPU bottleneck.
-CRS317 has 2x fans and does Turn-Off, temps are around 40°C with 20°C ambient.
+CRS317 has 2x fans and 2-Cores, FAns do Turn-Off, temps are around 40°C with 20°C ambient.
 
 CPU bottle neck is more visible with smaller files or large complex routing setups.
-with basic Bridge CRS317 can give file transfers of large .iso files 3TB at 500MB/s, of your SSD can, M.2 or RAM Drive.
+with basic Bridge CRS317 can give file transfers of large .iso files 3TB at 500MB/s, if your SSD is MLC or better M.2 TLC or RAM Drive.
 
