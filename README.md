@@ -18,7 +18,7 @@ to make work the Asus .kext must be modified to include the Asus PID.
 
 Aquantia was purchased by Marvell.
 there is a Repo here in Github,
-has dricers for FreeBSD, ESXi
+has drivers for FreeBSD, ESXi
 https://github.com/Aquantia/AQtion
 
 There are drivers also in the ASUS website,
@@ -35,6 +35,37 @@ Windows also work OK,
 same Driver & same FW works for Both:
 ASUS XG-C100F or Sonnet Solo 10G SFP+ PCIe
 Trendnet "untested"
+
+WARNING #1:
+FW upgrade does Not Jump from very old to latest.
+you need to download the Sonnet Firmware if you have a very old FW installed on Asus XG-C100F,
+Upgrade with Sonnet FW then upgrade to latest .121 from Marvell
+FW upgrade utility can also Downgrade, but i dont see the point.
+FW Upgrade utility gives an error, but PCIe card works Ok after Reboot.
+Requires real Windows10, Not Virtual.
+AQC100 are SFP+
+the other are for RJ45.
+FW upgrade utility can detect without Upgrade.
+type /? or /help
+in cmd as Administrator.
+install drivers Before doing the Upgrade, and reboot to see if card is Working ok before the FW Upgrade.
+
+i have W8.1x64 & Linux, dont like W10, or w11
+W10 can be installed without Keys, will work Ok for 10minutes, enough to Upgrade the FW.
+W10 Requires a 120GB or Bigger SSD.
+a laptop with W10 does Not work, you need a PCIe slot.
+
+https://www.microsoft.com/en-us/software-download/windows10
+
+WARNING #2.
+Do Not install W10x64 on a MacPro5,1 directly, will damage the UEFI.
+Windows10 will overwrite the Mac UEFI.
+you also need a Real PC.
+or install Windows10 with twocanoes Winclone.
+
+REboot to test if the New FW was intealled,
+if is detected by the tool in cmd.
+if Ok, W10 is No longer needed.
 
 SFP+
 https://www.asus.com/Networking-IoT-Servers/Wired-Networking/All-series/XG-C100F/
