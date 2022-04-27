@@ -49,16 +49,16 @@ but still needs tweaking, see Sonnet FAQ.
 WARNING #1:
 FW upgrade does Not Jump from very old to latest.
 you need to download the Sonnet Firmware if you have a very old FW installed on Asus XG-C100F,
-Upgrade with Sonnet FW then upgrade to latest .121 from Marvell
+Upgrade with Sonnet FW then upgrade to latest .121 from Marvell. 
 FW upgrade utility can also Downgrade, but i dont see the point.
 FW Upgrade utility gives an error, but PCIe card works Ok after Reboot.
 Requires real Windows10, Not Virtual.
 AQC100 are SFP+
-the other are for RJ45.
+the AQC107 seem are for RJ45. "Untested".
 FW upgrade utility can detect without Upgrade.
 type /? or /help
 in cmd as Administrator.
-install drivers Before doing the Upgrade, and reboot to see if card is Working ok before the FW Upgrade.
+install drivers Before doing the Upgrade, and reboot to see if card is Working ok before & after the FW Upgrade.
 
 i have W8.1x64 & Linux, dont like W10, or w11
 W10 can be installed without Keys, will work Ok for 10minutes, enough to Upgrade the FW.
