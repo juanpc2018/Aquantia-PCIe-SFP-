@@ -11,9 +11,10 @@ Sonnet Tech Solo 10G SFP+
 
 Trendnet 10G v1 o v2 "Untested"
 
-Sonnet also has Dual SFP+ with Intel IC
-compatiblw with older OSX,
-Aquantia requires OSX High Sierra.
+
+Sonnet also has Dual SFP+ with Intel IC, compatible with older OSX.
+
+Marvell / Aquantia requires OSX High Sierra.
 
 Asus & Sonnet have same Aquantia IC,
 but only Sonnet does Not require OSX Drivers.
