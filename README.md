@@ -73,9 +73,8 @@ Windows10 will overwrite the Mac UEFI.
 you also need a Real PC.
 or install Windows10 with twocanoes Winclone.
 
-REboot to test if the New FW was intealled,
-if is detected by the tool in cmd.
-if Ok, W10 is No longer needed.
+Reboot to test if the New FW was detected Ok by the tool.
+Then W10 is No longer needed.
 
 SFP+
 
