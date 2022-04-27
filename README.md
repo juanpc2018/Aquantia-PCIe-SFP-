@@ -2,9 +2,13 @@
 FW Upgrade procedure
 
 There are different Brands of PCIe cards with Aqtion controller IC
+
 ASUS XG-C100F SFP+
+
 ASUS XG-C100C RJ45 CAT6A
+
 Sonnet Tech Solo 10G SFP+
+
 Trendnet 10G v1 o v2 "Untested"
 
 Sonnet also has Dual SFP+ with Intel IC
