@@ -29,7 +29,7 @@ Aquantia was purchased by Marvell. </br>
 there is a Repo here in Github, </br>
 has drivers for FreeBSD, ESXi https://github.com/Aquantia/AQtion </br>
 
-There are drivers also in the ASUS website, </br>
+There are drivers in the ASUS website, </br>
 Sonnet Website. </br>
 [Marvell / Aquantia AQC](https://www.marvell.com/support/downloads.html) Website</br>
 [Station Drivers](https://www.station-drivers.com/index.php/en-us/component/remository/Drivers/Marvell/LAN/AQC-107-108-100-113-114-115-...--and--AQN-107-108-100-.../lang,en-us/) Archive. </br>
