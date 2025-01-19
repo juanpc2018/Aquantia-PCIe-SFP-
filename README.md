@@ -74,34 +74,35 @@ https://www.microsoft.com/en-us/software-download/windows10 </br>
 WARNING #2. </br>
 Do Not install W10x64 on a MacPro5,1 directly, will damage the UEFI. </br>
 Windows10 will overwrite the Mac UEFI. </br>
-you also need a Real PC. </br>
-or install Windows10 with twocanoes Winclone. </br>
+you need a Real PC, </br>
+or install Windows10 in MacPro 2010 with [twocanoes Winclone](https://twocanoes.com/products/mac/winclone/) </br>
 
 Reboot to test if the New FW was detected Ok by the tool. </br>
 Then W10 is No longer needed. </br>
 
-
 Asus XG-C100* requires: 1500rpm fan or more, depending on Ambient °C. </br>
 Heatsink is Big, Pretty, but is too far from Marvell / Aquantia IC with a foam. </br>
 
-Will shutdown IF over heats. </br>
-an over heats very easy with 800rpm case fan. </br>
+Will shutdown IF over heats. <---- </br>
+Over heats easy with 800rpm case fan. </br>
 
-Asus has a Dumb ass working in heatsink design. </br>
-this happens since Asus Rampage III Extreme X58 era "since 2010". </br>
+Asus has a Dumb ass working in heatsink design, </br>
+this happens since Asus Rampage III Extreme X58 era "since 2010", absolute worse heatsink design Award. </br>
 
-Im my opinion SFP+ is a bit more $$ than RJ45 CAT6a, but is much better. </br>
-for short distances, "Short-Range modules" with 850nm laser, require OM1 or OM2 or OM3 MMF cable. </br>
+SFP+ is a bit more $$ than RJ45 CAT6a, but is much better. </br>
+for short distances "Short-Range modules" with 850nm laser, require OM1 or OM2 or OM3 MMF cable. </br>
 LC-LC Fiber Optic cables are color coded "Orage". </br>
+higher quality Fiver is very thin, for long distances. </br>
 
 The cheapest 16x SFP+ Switch / Router is the MikroTik CRS317 16S+ </br>
-there is also a smaller 8x SFP+ version, and a smaller 4x SFP+ version. </br>
+there is also a smaller 8x SFP+ version with better CPU, and a smaller 4x SFP+ version with same CPU. </br>
 
-The Step-Up is the CCR2004 12S+ has less SFP+ cages, but faster Quad-Core ARM CPU. </br>
-CCR1072 was previous Generation Top of the Line, 72-core Amazon CPU, has 4x fans that Never Turn-Off, very $$$. </br>
-but has No CPU bottleneck. </br>
-CRS317 has 2x fans and 2-Cores, FAns do Turn-Off, temps are around 40°C with 20°C ambient. </br>
+The Step-Up is the CCR2004 12S+ has less SFP+ cages but faster Quad-Core ARM CPU. </br>
+CCR1072 was previous Top of the Line, 72-core Amazon CPU, has 4x fans that Never Turn-Off, very $$$. </br>
+has No CPU bottleneck. </br>
+CRS317 has 2x fans and 2-Cores, Fans Turn-Off, temps are around 40°C with 20°C ambient. </br>
 
-CPU bottle neck is more visible with smaller files or large complex routing setups. </br>
-with basic Bridge CRS317 can give file transfers of large .iso files 3TB at 500MB/s, if your SSD is MLC or better M.2 TLC or RAM Drive. </br>
+CPU bottle neck: </br>
+CRS317 can give file transfers of large .iso files 3TB at 500MB/s, if your SSD M.2 is faster or using a RAM Drive. </br>
+but 10G should give 1200MB/s </br>
 
