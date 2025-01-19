@@ -14,7 +14,7 @@ RJ45 10GbE CAT6A: </br>
 
 Intel IC´s Non Aquantia: </br>
 [Sonnet Presto SFP+](https://www.sonnettech.com/product/presto10gbesfp.html) </br>
-[Sonnet TwinTG](https://www.sonnettech.com/product/presto10gbaset.html) </br>
+[Sonnet Twin10G](https://www.sonnettech.com/product/presto10gbaset.html) </br>
 
 Sonnet also has Dual SFP+ with Intel IC, compatible with older OSX. </br>
 
