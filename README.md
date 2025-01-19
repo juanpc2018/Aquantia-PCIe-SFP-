@@ -8,7 +8,7 @@ SFP+ 10G </br>
 [Sonnet Solo 10G SFP+](https://www.sonnettech.com/product/solo10g-sfp-pcie-card.html) </br>
 [Trendnet 10G v1 o v2 "Untested"](https://www.trendnet.com/products/10g-sfp-pcie-adapter/10-gigabit-pcie-sfp-network-adapter-TEG-10GECSFP-v2) </br>
 
-RJ45 10GbE CAT6A: </br>
+RJ45 10GbE Cat6A: </br>
 [ASUS XG-C100C](https://www.asus.com/networking-iot-servers/wired-networking/all-series/xg-c100c/) </br>
 [Sonnet Solo 10G](https://www.sonnettech.com/product/solo10g-pcie-card.html) </br>
 
